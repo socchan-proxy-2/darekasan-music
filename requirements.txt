@@ -1,0 +1,11 @@
+py-cord
+py-cord[voice]
+py-cord[speed]
+numpy
+python-dotenv
+youtube_search
+yt_dlp
+requests
+unlimited-youtube-search
+flask
+flask_cors

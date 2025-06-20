@@ -1,0 +1,11 @@
+setup = Language has been set to {language}.
+added_to_queue = Added to queue: **{title}** - Duration: **{duration}** [Track {track_number}]
+loop_enabled = Loop has been enabled.
+loop_disabled = Loop has been disabled.
+leave = Disconnected from the voice channel.
+need_voice_channel = You need to be in a voice channel to use this command.
+now_playing = Now playing: **{title}** - Duration: **{duration}** [Track {track_number}]
+no_results = No results found.
+choose_song = Choose a song from the search results:
+skipped = Skipped the current song!
+no_song_playing = No song is currently playing.

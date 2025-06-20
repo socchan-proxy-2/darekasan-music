@@ -1,0 +1,11 @@
+setup = 言語が{language}に設定されました。
+added_to_queue = キューに追加されました: **{title}** - 長さ: **{duration}** [トラック{track_number}]
+loop_enabled = ループが有効になりました。
+loop_disabled = ループが無効になりました。
+leave = ボイスチャネルから切断されました。
+need_voice_channel = このコマンドを使用するにはボイスチャネルに参加している必要があります。
+now_playing = 再生中: **{title}** - 長さ: **{duration}** [トラック{track_number}]
+no_results = 結果が見つかりませんでした。
+choose_song = 検索結果から曲を選択してください:
+skipped = 現在の曲をスキップしました！
+no_song_playing = 現在再生されている曲はありません。
